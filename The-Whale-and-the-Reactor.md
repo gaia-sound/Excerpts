@@ -56,8 +56,12 @@ Whatever their shortcomings, however, the philosophies of Marx and Wittgenstein 
 
 From this point of view, the important question about technology becomes, As we 'make things work,' what kind of world are we making? This suggests that we pay attention not only to the making of physical instruments and processes, although that certainly remains important, but also to the production of psychological, social, and political conditions as a part of any significant technical change. Are we going to design and build circumstances that enlarge possibilities for growth in human freedom, sociability, intelligence, creativity, and self-government? Or are we headed in an altogether different direction?
 
-### Chapter 1: Technologies as Forms of Life
+### Chapter 3: Techné and Politeia
 
 
 #### *The Technical Constitution of Society*
-
+1. Without anyone having explicitly chosen it, dependency upon highly centralized organizations has gradually become a dominant social form.
+1. Justified by impressive economies of scale and, economies or not, always an expression of the power that accrues to very large organizations, gigantism has become an accustomed feature in the material and social settings of everyday life.
+1. Far from being a place of democratic freedom, the reality of the workplace tends to be undisguisedly authoritarian.
+1. It is not merely that useful devices and techniques of earlier periods have been rendered extinct, but also that patterns of social existence and individual experience that employed these tools have vanished as living realities.
+1. Human needs, markets, and political institutions that might regulate technology-based systems are often subject to manipulation by those very systems.
