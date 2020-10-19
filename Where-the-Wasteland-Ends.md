@@ -1,6 +1,6 @@
-Part Two: Single Vision and Newton's Sleep: The Strange Interplay of Objectivity and Alienation
-* [Chapter 4: The Sin of Idolatry](#chapter-4-the-sin-of-idolatry)
-* [Chapter 5: A Dead Man's Eyes](#chapter-5-a-dead-mans-eyes)
+* Part II: Single Vision and Newton's Sleep: The Strange Interplay of Objectivity and Alienation
+  * [Chapter 4: The Sin of Idolatry](#chapter-4-the-sin-of-idolatry)
+  * [Chapter 5: A Dead Man's Eyes](#chapter-5-a-dead-mans-eyes)
 
 ### Chapter 4: The Sin of Idolatry
 
