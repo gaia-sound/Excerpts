@@ -1,5 +1,5 @@
-### [Chapter 1: Technologies as Forms of Life](#chapter-1-technologies-as-forms-of-life)
-### [Chapter 3: Techné and Politeia](#chapter-3-techné-and-politeia)
+* [Chapter 1: Technologies as Forms of Life](#chapter-1-technologies-as-forms-of-life)
+* [Chapter 3: Techné and Politeia](#chapter-3-techné-and-politeia)
 
 ### Chapter 1: Technologies as Forms of Life
 
