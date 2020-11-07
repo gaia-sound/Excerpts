@@ -1,6 +1,6 @@
 * [Chapter 1: The Theory of Everything](#chapter-1-the-theory-of-everything)
 * [Chapter 9: Quantum Computers](#chapter-9-quantum-computers)
-* [Chapter 13: The Four Strands](#chapter-14-the-four-strands)
+* [Chapter 13: The Four Strands](#chapter-13-the-four-strands)
 
 ### Chapter 1: The Theory of Everything
 
