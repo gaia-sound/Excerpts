@@ -4,6 +4,7 @@
 #### [The Whale and The Reactor: A Search for Limits in an Age of High Technology](https://j-lyman.github.io/Excerpts/The-Whale-and-the-Reactor)
 
 ### Herbert Marcuse
+#### [One Dimensional Man](https://j-lyman.github.io/Excerpts/One-Dimensional-Man)
 #### [An Essay on Liberation](https://j-lyman.github.io/Excerpts/An-Essay-on-Liberation)
 
 ### Theodore Roszak
